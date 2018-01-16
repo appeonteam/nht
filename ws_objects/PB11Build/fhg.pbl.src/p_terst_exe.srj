@@ -1,0 +1,44 @@
+﻿$PBExportHeader$p_terst_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:terst.exe,,0,0,1
+CMP:0,0,0,2,0,0
+COM:Appeon
+DES:Appeon Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVN:1,0,0,1
+PVS:1.0.0.1
+FVN:1,0,0,1
+FVS:1.0.0.1
+PBD:terst.pbl,,1
+PBD:PB11Build\admin.pbl,,1
+PBD:PB11Build\appeals.pbl,,1
+PBD:PB11Build\application_tools.pbl,,1
+PBD:PB11Build\application_tools_gui.pbl,,1
+PBD:PB11Build\batch.pbl,,1
+PBD:PB11Build\calendar.pbl,,1
+PBD:PB11Build\casemain.pbl,,1
+PBD:PB11Build\casemain2.pbl,,1
+PBD:PB11Build\cremcor.pbl,,1
+PBD:PB11Build\csdetail.pbl,,1
+PBD:PB11Build\cusfocus.pbl,,1
+PBD:PB11Build\custom_rpts.pbl,,1
+PBD:PB11Build\dwpaintr.pbl,,1
+PBD:PB11Build\housekp.pbl,,1
+PBD:PB11Build\pc_core.pbl,,1
+PBD:PB11Build\pc_objs.pbl,,1
+PBD:PB11Build\pc_stds.pbl,,1
+PBD:PB11Build\pl_lock.pbl,,1
+PBD:PB11Build\po_core.pbl,,1
+PBD:PB11Build\po_objs.pbl,,1
+PBD:PB11Build\po_stds.pbl,,1
+PBD:PB11Build\po_util.pbl,,1
+PBD:PB11Build\portal.pbl,,1
+PBD:PB11Build\reminder.pbl,,1
+PBD:PB11Build\reportingobjects.pbl,,1
+PBD:PB11Build\std_rpts.pbl,,1
+PBD:PB11Build\surveys.pbl,,1
+PBD:PB11Build\tblmntnc.pbl,,1
+PBD:pb11build\fhg.pbl,,1
+
+ 
