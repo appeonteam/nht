@@ -10,6 +10,9 @@ global error error
 global message message
 end forward
 
+global variables
+
+end variables
 global type terst from application
 string appname = "terst"
 end type

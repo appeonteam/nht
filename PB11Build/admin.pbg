@@ -1,0 +1,27 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "PB11Build\\admin.pbl" "";
+@end;
+@begin Objects
+ "PB11Build\\u_tabpage_options_rightfax.sru" "PB11Build\\admin.pbl";
+ "PB11Build\\m_lock_admin.srm" "PB11Build\\admin.pbl";
+ "PB11Build\\w_lock_admin.srw" "PB11Build\\admin.pbl";
+ "PB11Build\\s_ddlbitems.srs" "PB11Build\\admin.pbl";
+ "PB11Build\\d_login_mgr.srd" "PB11Build\\admin.pbl";
+ "PB11Build\\u_dssysoptions.sru" "PB11Build\\admin.pbl";
+ "PB11Build\\d_locked_case_parms.srd" "PB11Build\\admin.pbl";
+ "PB11Build\\n_slu_mgr.sru" "PB11Build\\admin.pbl";
+ "PB11Build\\w_slu_main.srw" "PB11Build\\admin.pbl";
+ "PB11Build\\d_locked_cases.srd" "PB11Build\\admin.pbl";
+ "PB11Build\\d_license_info.srd" "PB11Build\\admin.pbl";
+ "PB11Build\\w_slu_login_mgr.srw" "PB11Build\\admin.pbl";
+ "PB11Build\\d_sysoptions.srd" "PB11Build\\admin.pbl";
+ "PB11Build\\u_tabpage_options_appeals.sru" "PB11Build\\admin.pbl";
+ "PB11Build\\u_tabpage_options_carve_out.sru" "PB11Build\\admin.pbl";
+ "PB11Build\\u_tabpage_options_case.sru" "PB11Build\\admin.pbl";
+ "PB11Build\\u_tabpage_options_other.sru" "PB11Build\\admin.pbl";
+ "PB11Build\\d_active_logins.srd" "PB11Build\\admin.pbl";
+ "PB11Build\\ds_login_list.sru" "PB11Build\\admin.pbl";
+ "PB11Build\\u_tabpage_options_file_locs.sru" "PB11Build\\admin.pbl";
+ "PB11Build\\w_system_options.srw" "PB11Build\\admin.pbl";
+@end;

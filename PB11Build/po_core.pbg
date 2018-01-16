@@ -1,0 +1,18 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "PB11Build\\po_core.pbl" "";
+@end;
+@begin Objects
+ "PB11Build\\n_objca_init.sru" "PB11Build\\po_core.pbl";
+ "PB11Build\\n_objca_mgr.sru" "PB11Build\\po_core.pbl";
+ "PB11Build\\n_objca_msg.sru" "PB11Build\\po_core.pbl";
+ "PB11Build\\d_evalcheck.srd" "PB11Build\\po_core.pbl";
+ "PB11Build\\n_evalcheck.sru" "PB11Build\\po_core.pbl";
+ "PB11Build\\d_main.srd" "PB11Build\\po_core.pbl";
+ "PB11Build\\d_objca_db_main.srd" "PB11Build\\po_core.pbl";
+ "PB11Build\\d_objca_mgr_main.srd" "PB11Build\\po_core.pbl";
+ "PB11Build\\d_objca_msg_main.srd" "PB11Build\\po_core.pbl";
+ "PB11Build\\s_parms.srs" "PB11Build\\po_core.pbl";
+ "PB11Build\\n_objca_main.sru" "PB11Build\\po_core.pbl";
+ "PB11Build\\n_objca_db.sru" "PB11Build\\po_core.pbl";
+@end;

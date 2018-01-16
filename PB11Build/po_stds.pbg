@@ -1,0 +1,12 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "PB11Build\\po_stds.pbl" "";
+@end;
+@begin Objects
+ "PB11Build\\d_objca_db_std.srd" "PB11Build\\po_stds.pbl";
+ "PB11Build\\d_objca_timer_std.srd" "PB11Build\\po_stds.pbl";
+ "PB11Build\\d_objca_mgr_std.srd" "PB11Build\\po_stds.pbl";
+ "PB11Build\\d_objca_msg_std.srd" "PB11Build\\po_stds.pbl";
+ "PB11Build\\d_objca_init_std.srd" "PB11Build\\po_stds.pbl";
+ "PB11Build\\d_objca_win_std.srd" "PB11Build\\po_stds.pbl";
+@end;

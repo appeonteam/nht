@@ -1,0 +1,16 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "PB11Build\\dwpaintr.pbl" "";
+@end;
+@begin Objects
+ "PB11Build\\d_iim_reports.srd" "PB11Build\\dwpaintr.pbl";
+ "PB11Build\\d_args.srd" "PB11Build\\dwpaintr.pbl";
+ "PB11Build\\f_wordcap.srf" "PB11Build\\dwpaintr.pbl";
+ "PB11Build\\u_tabpage_args.sru" "PB11Build\\dwpaintr.pbl";
+ "PB11Build\\u_tab_args_conv.sru" "PB11Build\\dwpaintr.pbl";
+ "PB11Build\\f_stringreplaceall.srf" "PB11Build\\dwpaintr.pbl";
+ "PB11Build\\u_tabpage_convert.sru" "PB11Build\\dwpaintr.pbl";
+ "PB11Build\\w_iim_dw_assoc.srw" "PB11Build\\dwpaintr.pbl";
+ "PB11Build\\d_convert_fields.srd" "PB11Build\\dwpaintr.pbl";
+ "PB11Build\\s_dwpainter_parms.srs" "PB11Build\\dwpaintr.pbl";
+@end;

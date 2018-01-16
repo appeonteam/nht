@@ -20,6 +20,7 @@ global function string gf_allowquotesinlabels (string a_clabeltext);/***********
 	07/03/03 M. Caruso    Created.
 *****************************************************************************************/
 
+
 LONG		l_nPos = 1
 STRING	l_cLabelText
 

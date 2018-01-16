@@ -1,0 +1,19 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "PB11Build\\pc_stds.pbl" "";
+@end;
+@begin Objects
+ "PB11Build\\w_response_std.srw" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\u_tab_std.sru" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\w_cc_std.srw" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\u_tabpg_std.sru" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\w_main_std.srw" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\u_dw_std.sru" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\d_fwca_mdi_std.srd" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\d_fwca_mgr_std.srd" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\d_fwca_msg_std.srd" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\w_mdi_frame_std.srw" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\d_fwca_menu_std.srd" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\u_container_std.sru" "PB11Build\\pc_stds.pbl";
+ "PB11Build\\u_outliner_std.sru" "PB11Build\\pc_stds.pbl";
+@end;

@@ -1,0 +1,33 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "PB11Build\\pl_lock.pbl" "";
+@end;
+@begin Objects
+ "PB11Build\\n_secca_init.sru" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\n_secca_mgr.sru" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\n_secca_msg.sru" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\d_login.srd" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\u_registerbutton.sru" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\d_plmanager.srd" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\d_secca_def_main.srd" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\d_secca_def_std.srd" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\d_dddw_db_name.srd" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\d_secca_msg_main.srd" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\d_secca_init_main.srd" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\d_register.srd" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\w_pl_deleteobjs.srw" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\w_pl_login_main.srw" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\d_update_files.srd" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\d_secca_msg_std.srd" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\d_secca_init_std.srd" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\w_pl_newpwd_main.srw" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\w_pl_connections.srw" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\w_pl_register.srw" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\n_cst_kernel32.sru" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\f_pl_pwd_restrictions.srf" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\n_secca_def.sru" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\s_secca_def.srs" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\n_secca_main.sru" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\w_pl_password.srw" "PB11Build\\pl_lock.pbl";
+ "PB11Build\\w_pl_registerbutton.srw" "PB11Build\\pl_lock.pbl";
+@end;

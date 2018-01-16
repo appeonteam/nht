@@ -1,0 +1,46 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "PB11Build\\pc_core.pbl" "";
+@end;
+@begin Objects
+ "PB11Build\\w_cc_main.srw" "PB11Build\\pc_core.pbl";
+ "PB11Build\\u_tabpg_main.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_cst_dwsrv_resize.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\w_mdi_frame.srw" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_fwca_main.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_cst_resizeattrib.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_fwca_mdi.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\u_tab_main.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\u_dw_main.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_fwca_menu.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_cst_propertyattrib.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_fwca_mgr.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_fwca_msg.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\m_main.srm" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_fwca_error.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\d_fwca_mdi_main.srd" "PB11Build\\pc_core.pbl";
+ "PB11Build\\m_popup_mdi.srm" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_dwsrv_cc.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\d_fwca_mgr_main.srd" "PB11Build\\pc_core.pbl";
+ "PB11Build\\d_fwca_msg_main.srd" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_dwsrv_main.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_dwsrv_edit.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\w_main.srw" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_cst_resize.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_dwsrv_seek.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\d_fwca_menu_main.srd" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_cst_string.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_cst_dwsrv.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\m_popup_dw.srm" "PB11Build\\pc_core.pbl";
+ "PB11Build\\m_popup_win.srm" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_dwsrv_cues.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\w_response.srw" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_dwsrv_ctrl.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\u_container_main.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_dwsrv_uow.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\w_root.srw" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_cst_infoattrib.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_cst_conversion.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_cst_dwobjectattrib.sru" "PB11Build\\pc_core.pbl";
+ "PB11Build\\n_cst_dwsrv_resizeattrib.sru" "PB11Build\\pc_core.pbl";
+@end;

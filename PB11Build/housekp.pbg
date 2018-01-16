@@ -1,0 +1,10 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "PB11Build\\housekp.pbl" "";
+@end;
+@begin Objects
+ "PB11Build\\d_case_housekeeping.srd" "PB11Build\\housekp.pbl";
+ "PB11Build\\m_case_housekeeping.srm" "PB11Build\\housekp.pbl";
+ "PB11Build\\u_case_housekeeping.sru" "PB11Build\\housekp.pbl";
+ "PB11Build\\w_case_housekeeping.srw" "PB11Build\\housekp.pbl";
+@end;

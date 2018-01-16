@@ -1,0 +1,33 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "PB11Build\\casemain2.pbl" "";
+@end;
+@begin Objects
+ "PB11Build\\d_data_contacthistoryfields.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\w_category_popup.srw" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_close_case.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\w_close_case.srw" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_data_syntaxstorage.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\dddw_rec_confid_levels.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_case_prop_field_currval.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_case_prop_field_histchg.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_case_prop_field_lastchg.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\dddw_other_close_codes.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_criteria_contacthistory.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\f_column_label.srf" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_search_contact_history.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\u_search_contacthistory.sru" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_close_codes.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\f_column_data.srf" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_case_prop_hist_audit.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_cross_reference.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_data_caseprop_field_def.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\u_cross_reference.sru" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_record_security.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\w_record_security.srw" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_categories_treeview.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_appeal_props.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\f_lastcaseworked.srf" "PB11Build\\casemain2.pbl";
+ "PB11Build\\d_contacthistory_field_list.srd" "PB11Build\\casemain2.pbl";
+ "PB11Build\\u_contacthistory_field_list.sru" "PB11Build\\casemain2.pbl";
+@end;

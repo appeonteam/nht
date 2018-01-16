@@ -1,0 +1,11 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "PB11Build\\batch.pbl" "";
+@end;
+@begin Objects
+ "PB11Build\\d_matched_batched_correspondence.srd" "PB11Build\\batch.pbl";
+ "PB11Build\\dddw_letter_name.srd" "PB11Build\\batch.pbl";
+ "PB11Build\\d_search_batch_correspondence.srd" "PB11Build\\batch.pbl";
+ "PB11Build\\m_batch_correspondence.srm" "PB11Build\\batch.pbl";
+ "PB11Build\\w_batch_correspondence.srw" "PB11Build\\batch.pbl";
+@end;
